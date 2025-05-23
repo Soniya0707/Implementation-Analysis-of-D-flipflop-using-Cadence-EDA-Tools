@@ -15,7 +15,7 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ### Computer System
 - Minimum **4GB RAM** and a **multi-core processor**
 
-## Procedure
+## Procedure 
 
 ### 1. Launch Cadence Virtuoso Environment
 - Open the Cadence Virtuoso tool and set up the working library.
